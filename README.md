@@ -5,4 +5,4 @@ the only way to get rid of it is going to your browsers local files and removing
 
 to install into chrome, you have to go to chrome://extensions and turn on developer mode (top right), then click "Load Unpacked"
 
-boom. you're ram dies. not really, but yknow. 
+boom. your ram dies. not really, but yknow. 
