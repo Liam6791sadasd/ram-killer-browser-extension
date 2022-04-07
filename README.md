@@ -4,5 +4,6 @@ the only way to get rid of it is going to your browsers local files and removing
 
 
 to install into chrome, you have to go to chrome://extensions and turn on developer mode (top right), then click "Load Unpacked"
+i believe its the same way for other browsers, but I do know its the exact same for Opera GX
 
 boom. your ram dies. not really, but yknow. 
